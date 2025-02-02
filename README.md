@@ -25,7 +25,7 @@ A Python-based script that allows users to search for IP cameras using the Shoda
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/YassineDouadi/IP_Camera.git
+    git clone https://github.com/CipherX-bit/IP_Camera.git
     ```
 
 2. Install dependencies:
@@ -61,7 +61,7 @@ Here is a screenshot of the script in action:
 
 ## Contributing
 
-Feel free to contribute to the project by opening issues or submitting pull requests on [GitHub](https://github.com/YassineDouadi/IP_Camera).
+Feel free to contribute to the project by opening issues or submitting pull requests on [GitHub](https://github.com/CipherX-bit/IP_Camera).
 
 ## License
 
